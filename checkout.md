@@ -1,3 +1,5 @@
+[< to Table of Contents](./readme.md)
+
 ## git checkout
 
 **git checkout *[file]*** - The git checkout command is used to switch branches, whenever the work is to be started on a different branch.

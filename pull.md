@@ -1,3 +1,5 @@
+[< to Table of Contents](./readme.md)
+
 ## git pull
 
 **git pull *[file]*** - The git pull command is used to fetch and merge changes from the remote repository to the local repository.

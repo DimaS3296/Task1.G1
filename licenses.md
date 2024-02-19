@@ -1,4 +1,4 @@
-
+[< to Table of Contents](./readme.md)
 
 Copyright 2024 DSemenov
 

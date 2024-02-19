@@ -1,3 +1,5 @@
+[< to Table of Contents](./readme.md)
+
 ## git push
 
 **git push *[file]*** - The command git push is used to transfer the commits or pushing the content from the local repository to the remote repository.

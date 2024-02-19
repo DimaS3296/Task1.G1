@@ -1,3 +1,5 @@
+[< to Table of Contents](./readme.md)
+
 ## git status 
 
 **git status *[file]*** - The git status command tells the current state of the repository.

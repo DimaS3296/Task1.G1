@@ -1,4 +1,4 @@
-
+[< to Table of Contents](./readme.md)
 
  An ignored file - a file which Git has been explicitly told to ignore. Ignored files are tracked in a special file named  _.gitignore_ that is checked in at the root of your repository.
 

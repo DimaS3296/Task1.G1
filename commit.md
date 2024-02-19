@@ -1,3 +1,5 @@
+[< to Table of Contents](./readme.md)
+
 ## git commit
 
 **git commit *[file]*** - Record the changes made to the files to a local repository. For easy reference, each commit has a unique ID. The commit command makes sure that the changes are saved to the local repository.

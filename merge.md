@@ -1,3 +1,5 @@
+[< to Table of Contents](./readme.md)
+
 ## git merge 
 
 **git merge *[file]*** - The git merge command is used to integrate the branches together. The command combines the changes from one branch to another branch. 

@@ -1,3 +1,5 @@
+[< to Table of Contents](./readme.md)
+
 ## git log
 
 **git log *[file]*** - To show the chronological commit history for a repository. This helps give context and history for a repository. Git log is available immediately on a recently cloned repository to see history.

@@ -1,3 +1,5 @@
+[< to Table of Contents](./readme.md)
+
 ## git init
 **git init *[file]*** - The command git init is used to create an empty Git repository. After running git init, adding and committing files/directories is possible.
 

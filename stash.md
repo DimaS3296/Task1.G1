@@ -1,3 +1,5 @@
+[< to Table of Contents](./readme.md)
+
 ## git stash
 
 **git stash *[file]*** - To save changes made when they’re not in a state to commit them to a repository. This will store the work and give a clean working directory. For instance, when working on a new feature that’s not complete, but an urgent bug needs attention.

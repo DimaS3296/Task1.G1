@@ -1,3 +1,5 @@
+[< to Table of Contents](./readme.md)
+
 ## git config
 
 **git config *[file]*** - The git config command is used initially to configure the user.name and user.email. This specifies what email id and username will be used from a local repository.

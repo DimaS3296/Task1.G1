@@ -1,3 +1,5 @@
+[< to Table of Contents](./readme.md)
+
 ## git show
 
 **git show *[file]*** - git-show is a command line utility that is used to view expanded details on Git objects such as blobs, trees, tags, and commits. 
