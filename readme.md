@@ -45,7 +45,7 @@ license: [CC BY 3.0 Deed](https://creativecommons.org/licenses/by/3.0/deed.en)
 
 ## 2. Gitignore files.
 
-[gitignore_files](./gitignore_files.md)
+[gitignore files](./gitignore_files.md)
 
 ## 3. Git Branching strategies.
 
@@ -53,7 +53,7 @@ license: [CC BY 3.0 Deed](https://creativecommons.org/licenses/by/3.0/deed.en)
 
 ## 4. Git merge conflicts
 
-[Git_conflicts](./conflicts.md)
+[Gitmerge conflicts](./conflicts.md)
 
 
 
