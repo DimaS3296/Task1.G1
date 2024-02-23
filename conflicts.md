@@ -6,7 +6,7 @@ Conflicts generally arise when two people have changed the same lines in a file,
 
 1. The most direct way to resolve a merge conflict is to edit the conflicted file. 
 
-There are many tools to help resolve merge conflicts. Git has plenty of command line tools such as :  [git log](./log.md), [git reset](./reset.md) , [git status](./status.md),  [git checkout](./checkout.md), and [git reset](./reset.md). 
+There are many tools to help resolve merge conflicts. Git has plenty of command line tools such as :  [git log](./log.md),  [git status](./status.md),  [git checkout](./checkout.md), and [git reset](./reset.md). 
 
 In addition to the Git, many third-party tools offer streamlined merge conflict support features.
 
