@@ -2,7 +2,9 @@
 
 ## git pull
 
-**git pull *[file]*** - The git pull command is used to fetch and merge changes from the remote repository to the local repository.
+**git pull *[file]*** - The git pull command is used to fetch  ([git fetch](./fetch.md))  and merge ([git merge](./merge.md)) changes from the remote repository to the local repository.
+
+
 
 The command "git pull origin master" copies all the files from the master branch of the remote repository to the local repository.
 
