@@ -51,7 +51,7 @@ license: [CC BY 3.0 Deed](https://creativecommons.org/licenses/by/3.0/deed.en)
 
 [branching](./branching.md)
 
-## 4. Git conflicts
+## 4. Git merge conflicts
 
 [Git_conflicts](./conflicts.md)
 
